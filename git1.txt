@@ -1,2 +1,7 @@
 git1
+<<<<<<< HEAD
 git3
+=======
+git2
+git22
+>>>>>>> branch1
